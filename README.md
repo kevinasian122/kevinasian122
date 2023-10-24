@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kevin</h1>
-<h3 align="center">A Waterloo CS student eager to learn about the world of software (Looking for internship opportunities!)</h3>
+<h3 align="center">A Waterloo CS student eager to learn about the world of software <br/> Looking for internship opportunities!</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🔭 I’m currently working on [UW Blueprint](https://github.com/uwblueprint/childrens-aid-society)
